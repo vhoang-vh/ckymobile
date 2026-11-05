@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "PetCare Hanoi",
+    "slug": "petcare-hanoi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5FAF8"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5FAF8"
+      }
+    }
+  }
+}
